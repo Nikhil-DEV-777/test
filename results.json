@@ -1,0 +1,32 @@
+{
+  "repository": "D:\\Rift\\backend\\tmp\\workspace\\5f0464bc-ef9c-4583-9fac-c2e5dabb9631",
+  "team_name": "ygyh",
+  "leader_name": "hhh",
+  "branch_name": "YGYH_HHH_AI_Fix",
+  "timestamp": "2026-02-19T20:32:49.939559+00:00",
+  "total_time_seconds": 1.78,
+  "iterations_used": 1,
+  "max_iterations": 50,
+  "all_tests_passed": true,
+  "ci_status": "PASSED",
+  "summary": {
+    "total_failures_detected": 0,
+    "total_fixes_applied": 0,
+    "total_fixes_failed": 0
+  },
+  "score": {
+    "base_score": 100,
+    "speed_bonus": 10,
+    "efficiency_penalty": 0,
+    "final_score": 110
+  },
+  "fixes": [],
+  "ci_timeline": [
+    {
+      "iteration": 1,
+      "status": "PASSED",
+      "timestamp": "2026-02-19T20:32:49.939586+00:00",
+      "errors_remaining": 0
+    }
+  ]
+}
